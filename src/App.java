@@ -22,6 +22,14 @@ public class App {
         produkt = tal2*tal3*tal4;
         System.out.println(tal2+"*"+tal3+"*"+tal4+"="+produkt);
 
+        System.out.println(tal1+"/"+tal2+"="+(tal1/tal2));
+
+        int tal5 = 10;
+        int tal6 = 3;
+        double kvot = (double)tal6/tal3;
+
+        System.out.println(tal6+"/"+tal3+"="+kvot);
+
         
 
 
