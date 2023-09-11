@@ -30,14 +30,8 @@ public class App {
 
         System.out.println(tal6+"/"+tal3+"="+kvot);
 
-        
-
-
-
-
-
-
-
+        System.out.println("Rest av tal5/tal6 = "+(tal5%tal6));
+        System.out.println("Rest av 12/4 = "+(12%4));
 
 
     }
